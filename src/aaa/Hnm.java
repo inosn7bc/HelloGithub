@@ -7,4 +7,9 @@ public class Hnm {
 		//githubのクライアントから。
 	}
 
+	void load() {
+
+
+	}
+
 }
