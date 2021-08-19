@@ -7,6 +7,7 @@ public class Hnm {
 		//githubのクライアントから。
 		
 		//MultiRow TweetDeck
+		https://www.gigafree.net/internet/googlechrome/
 		
 	}
 
