@@ -9,6 +9,13 @@ public class Hnm {
 		//MultiRow TweetDeck
 		https://www.gigafree.net/internet/googlechrome/
 		
+		モノサーチ
+Black Menu for Google
+Enhancer for YouTube
+Language learning With Netflix and YouTube
+OneTab
+Search YouTube Right Click
+
 	}
 
 	void load() {
